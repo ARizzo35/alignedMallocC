@@ -1,0 +1,4 @@
+alignedmalloc
+*.out
+*.o
+~*
